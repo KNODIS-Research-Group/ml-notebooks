@@ -4,6 +4,12 @@
 
 - Introducción al machine learning
 
+## Matemáticas
+
+- Álgebra lineal
+- Probabilidad
+- Estadística
+
 ## Preprocesamiento de datos
 
 - Preprocesamiento de datos
