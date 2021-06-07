@@ -164,3 +164,11 @@ Temporary Items
 
 .vscode
 
+<<<<<<< Updated upstream
+=======
+**/logs
+**/model.png
+**/DogsCats
+**/*.tf
+
+>>>>>>> Stashed changes
