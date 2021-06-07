@@ -18,22 +18,38 @@
 
 ## Regresión
 
-- Elastic-net
+- Regresión lineal
+- Regularización en regresión lineal
+- SGD Regressor
+- Regresión polinómica
 - Gaussian Kernel regression
 - K Nearest Neighbors
+- Medidas de calidad para regresión
 
 ## Clasificación
 
-- Naïve Bayes
+- Regresión logistica
 - Support Vector Machines
+- Naïve Bayes
+- K-Nearest Neighbors
+- Nearest Centroid
+- Árboles de decisión
+- Random Forest
 - Ensembles
+- Medidas de calidad para clasificación
+- Ajuste de hiper-parámetros
 
 ## Clustering
 
 - K-Means
+- DBSCAN
+- Clustering jerárquico
+- Spectral clustering
 
 ## Reducción de dimensiones
 
+- PCA
+- Truncated SVD
 - ISOMAP
 - T-SNE
 
